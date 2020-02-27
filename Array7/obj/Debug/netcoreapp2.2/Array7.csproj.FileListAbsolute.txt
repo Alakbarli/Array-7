@@ -1,0 +1,11 @@
+C:\Users\Ulvi\source\repos\Array7\Array7\bin\Debug\netcoreapp2.2\Array7.deps.json
+C:\Users\Ulvi\source\repos\Array7\Array7\bin\Debug\netcoreapp2.2\Array7.runtimeconfig.json
+C:\Users\Ulvi\source\repos\Array7\Array7\bin\Debug\netcoreapp2.2\Array7.runtimeconfig.dev.json
+C:\Users\Ulvi\source\repos\Array7\Array7\bin\Debug\netcoreapp2.2\Array7.dll
+C:\Users\Ulvi\source\repos\Array7\Array7\bin\Debug\netcoreapp2.2\Array7.pdb
+C:\Users\Ulvi\source\repos\Array7\Array7\obj\Debug\netcoreapp2.2\Array7.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\Array7\Array7\obj\Debug\netcoreapp2.2\Array7.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\Array7\Array7\obj\Debug\netcoreapp2.2\Array7.AssemblyInfoInputs.cache
+C:\Users\Ulvi\source\repos\Array7\Array7\obj\Debug\netcoreapp2.2\Array7.AssemblyInfo.cs
+C:\Users\Ulvi\source\repos\Array7\Array7\obj\Debug\netcoreapp2.2\Array7.dll
+C:\Users\Ulvi\source\repos\Array7\Array7\obj\Debug\netcoreapp2.2\Array7.pdb
